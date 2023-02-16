@@ -1,0 +1,5 @@
+target/
+*/node_modules/
+scripts/logs/
+.idea
+.fleet
